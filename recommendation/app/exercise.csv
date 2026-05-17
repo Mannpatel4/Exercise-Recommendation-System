@@ -1,171 +1,153 @@
 Exercise,Workout_Location,Goal,Difficulty,Main_Muscle,Equipment
+Barbell Bench Press,Gym,Weight Gain,Intermediate,Chest,Barbell
+Incline Barbell Press,Gym,Weight Gain,Intermediate,Chest,Barbell
+Deadlift,Gym,Weight Gain,Advanced,Back,Barbell
+Barbell Row,Gym,Weight Gain,Intermediate,Back,Barbell
+Squat,Gym,Weight Gain,Intermediate,Legs,Barbell
+Front Squat,Gym,Weight Gain,Advanced,Legs,Barbell
+Overhead Press,Gym,Weight Gain,Intermediate,Shoulder,Barbell
+Arnold Press,Gym,Weight Gain,Advanced,Shoulder,Dumbbells
+Weighted Pull Ups,Gym,Weight Gain,Advanced,Back,Pull-up Belt
+Weighted Dips,Gym,Weight Gain,Advanced,Chest,Dip Belt
+Leg Press,Gym,Weight Gain,Intermediate,Legs,Leg Press Machine
+Romanian Deadlift,Gym,Weight Gain,Advanced,Legs,Barbell
+Seated Cable Row,Gym,Weight Gain,Intermediate,Back,Cable Machine
+Lat Pulldown,Gym,Weight Gain,Beginner,Back,Cable Machine
+Dumbbell Bench Press,Home With Equipment,Weight Gain,Intermediate,Chest,Dumbbells
+Push Ups,Home Without Equipment,Weight Gain,Beginner,Chest,Bodyweight
+Pull Ups,Home Without Equipment,Weight Gain,Intermediate,Back,Pull-up Bar
+Pike Push Ups,Home Without Equipment,Weight Gain,Intermediate,Shoulder,Bodyweight
+Bulgarian Split Squat,Home With Equipment,Weight Gain,Advanced,Legs,Dumbbells
+Goblet Squat,Home With Equipment,Weight Gain,Beginner,Legs,Dumbbells
+Dumbbell Lunges,Home With Equipment,Weight Gain,Intermediate,Legs,Dumbbells
+Resistance Band Row,Home With Equipment,Weight Gain,Beginner,Back,Resistance Bands
+Handstand Push Ups,Home Without Equipment,Weight Gain,Advanced,Shoulder,Bodyweight
+Diamond Push Ups,Home Without Equipment,Weight Gain,Intermediate,Arms,Bodyweight
+Hammer Curl,Home With Equipment,Weight Gain,Beginner,Arms,Dumbbells
+Barbell Curl,Gym,Weight Gain,Intermediate,Arms,Barbell
+Skull Crushers,Gym,Weight Gain,Intermediate,Arms,EZ Bar
+Close Grip Bench Press,Gym,Weight Gain,Advanced,Arms,Barbell
+Farmer's Walk,Gym,Weight Gain,Intermediate,Full Body,Dumbbells
+Power Clean,Gym,Weight Gain,Advanced,Full Body,Barbell
+Trap Bar Deadlift,Gym,Weight Gain,Intermediate,Full Body,Trap Bar
+Calf Raises,Home With Equipment,Weight Gain,Beginner,Legs,Dumbbells
+Plank,Home Without Equipment,Weight Gain,Beginner,Core,Bodyweight
+Weighted Sit Ups,Home With Equipment,Weight Gain,Intermediate,Core,Weight Plate
+Cable Crunch,Gym,Weight Gain,Intermediate,Core,Cable Machine
+Chin Ups,Home Without Equipment,Weight Gain,Intermediate,Back,Pull-up Bar
+Chest Fly,Home With Equipment,Weight Gain,Intermediate,Chest,Dumbbells
+Machine Shoulder Press,Gym,Weight Gain,Beginner,Shoulder,Shoulder Press Machine
+Running,Gym,Weight Loss,Beginner,Full Body,Treadmill
+Cycling,Gym,Weight Loss,Beginner,Legs,Stationary Bike
+Jump Rope,Home With Equipment,Weight Loss,Beginner,Full Body,Jump Rope
+Jumping Jacks,Home Without Equipment,Weight Loss,Beginner,Full Body,Bodyweight
+Mountain Climbers,Home Without Equipment,Weight Loss,Beginner,Core,Bodyweight
+Burpees,Home Without Equipment,Weight Loss,Intermediate,Full Body,Bodyweight
+Battle Ropes,Gym,Weight Loss,Advanced,Arms,Battle Ropes
+Rowing Machine,Gym,Weight Loss,Intermediate,Back,Rowing Machine
+Stair Climber,Gym,Weight Loss,Intermediate,Legs,Stair Machine
+High Knees,Home Without Equipment,Weight Loss,Beginner,Full Body,Bodyweight
+Box Jumps,Gym,Weight Loss,Advanced,Legs,Plyo Box
+Kettlebell Swings,Gym,Weight Loss,Intermediate,Full Body,Kettlebell
+Sprint Intervals,Gym,Weight Loss,Advanced,Legs,Track
+Medicine Ball Slams,Gym,Weight Loss,Intermediate,Full Body,Medicine Ball
+Bear Crawls,Home Without Equipment,Weight Loss,Intermediate,Full Body,Bodyweight
+Bicycle Crunches,Home Without Equipment,Weight Loss,Beginner,Core,Bodyweight
+Russian Twists,Home With Equipment,Weight Loss,Beginner,Core,Medicine Ball
+Dumbbell Thrusters,Home With Equipment,Weight Loss,Intermediate,Shoulder,Dumbbells
+Skaters,Home Without Equipment,Weight Loss,Beginner,Legs,Bodyweight
+Step Ups,Home With Equipment,Weight Loss,Beginner,Legs,Bench
+Shadow Boxing,Home Without Equipment,Weight Loss,Intermediate,Full Body,Bodyweight
+Elliptical Training,Gym,Weight Loss,Beginner,Full Body,Elliptical Machine
+Jump Squats,Home Without Equipment,Weight Loss,Intermediate,Legs,Bodyweight
+Push Press,Gym,Weight Loss,Advanced,Shoulder,Barbell
+TRX Rows,Gym,Weight Loss,Intermediate,Back,TRX Straps
+Sit Ups,Home Without Equipment,Weight Loss,Beginner,Core,Bodyweight
+Flutter Kicks,Home Without Equipment,Weight Loss,Beginner,Core,Bodyweight
+Tuck Jumps,Home Without Equipment,Weight Loss,Advanced,Legs,Bodyweight
+Wall Balls,Gym,Weight Loss,Intermediate,Full Body,Medicine Ball
+Farmer's Carry,Gym,Weight Loss,Intermediate,Full Body,Kettlebell
+Lateral Lunges,Home Without Equipment,Weight Loss,Intermediate,Legs,Bodyweight
+Speed Skipping,Home With Equipment,Weight Loss,Intermediate,Full Body,Jump Rope
+Jump Lunges,Home Without Equipment,Weight Loss,Advanced,Legs,Bodyweight
+Plank Jacks,Home Without Equipment,Weight Loss,Intermediate,Core,Bodyweight
+Air Bike,Gym,Weight Loss,Intermediate,Full Body,Air Bike
+Side Plank,Home Without Equipment,Weight Loss,Beginner,Core,Bodyweight
+Toe Touches,Home Without Equipment,Weight Loss,Beginner,Core,Bodyweight
+Fast Feet,Home Without Equipment,Weight Loss,Intermediate,Full Body,Bodyweight
 Bench Press,Gym,Muscle Gain,Intermediate,Chest,Barbell
 Incline Dumbbell Press,Gym,Muscle Gain,Intermediate,Chest,Dumbbells
-Cable Fly,Gym,Fat Loss,Beginner,Chest,Cable Machine
-Push-Ups,Gym,Fat Loss,Beginner,Chest,Bodyweight
-Chest Press Machine,Gym,Muscle Gain,Beginner,Chest,Chest Press Machine
-Decline Bench Press,Gym,Weight Gain,Intermediate,Chest,Barbell
-Pec Deck Fly,Gym,Muscle Gain,Beginner,Chest,Machine
-Dips (Chest Version),Gym,Muscle Gain,Advanced,Chest,Parallel Bars
-Dumbbell Pullover,Gym,Muscle Gain,Intermediate,Chest,Dumbbells
-Deadlift,Gym,Weight Gain,Advanced,Back,Barbell
-Lat Pulldown,Gym,Muscle Gain,Beginner,Back,Lat Machine
-Seated Cable Row,Gym,Muscle Gain,Beginner,Back,Cable Machine
-Bent Over Barbell Row,Gym,Muscle Gain,Intermediate,Back,Barbell
-Single Arm Dumbbell Row,Gym,Muscle Gain,Beginner,Back,Dumbbells
-Pull-Ups,Gym,Muscle Gain,Advanced,Back,Pull-Up Bar
-T-Bar Row,Gym,Weight Gain,Intermediate,Back,T-Bar Machine
-Face Pulls,Gym,Fat Loss,Beginner,Back,Cable Machine
-Hyperextensions,Gym,Muscle Gain,Beginner,Back,Back Extension Bench
-Straight Arm Pulldown,Gym,Fat Loss,Intermediate,Back,Cable Machine
-Back Squat,Gym,Weight Gain,Advanced,Legs,Squat Rack
-Leg Press,Gym,Muscle Gain,Beginner,Legs,Leg Press Machine
-Walking Lunges,Gym,Fat Loss,Intermediate,Legs,Dumbbells
-Leg Extensions,Gym,Muscle Gain,Beginner,Legs,Leg Extension Machine
-Lying Leg Curl,Gym,Muscle Gain,Beginner,Legs,Leg Curl Machine
-Bulgarian Split Squat,Gym,Muscle Gain,Advanced,Legs,Dumbbells
-Goblet Squat,Gym,Weight Loss,Beginner,Legs,Kettlebell
-Calf Raise,Gym,Muscle Gain,Beginner,Legs,Calf Machine
-Hack Squat,Gym,Muscle Gain,Intermediate,Legs,Hack Squat Machine
-Romanian Deadlift,Gym,Muscle Gain,Intermediate,Legs,Barbell
-Overhead Press,Gym,Weight Gain,Intermediate,Shoulder,Barbell
-Dumbbell Lateral Raise,Gym,Fat Loss,Beginner,Shoulder,Dumbbells
-Front Raise,Gym,Fat Loss,Beginner,Shoulder,Dumbbells
-Arnold Press,Gym,Muscle Gain,Intermediate,Shoulder,Dumbbells
-Upright Row,Gym,Muscle Gain,Intermediate,Shoulder,EZ Bar
-Reverse Fly,Gym,Fat Loss,Beginner,Shoulder,Dumbbells
-Shoulder Press Machine,Gym,Muscle Gain,Beginner,Shoulder,Machine
-Barbell Shrugs,Gym,Weight Gain,Beginner,Shoulder,Barbell
-Push Press,Gym,Muscle Gain,Advanced,Shoulder,Barbell
-Barbell Bicep Curl,Gym,Weight Gain,Beginner,Arms,Barbell
-Hammer Curls,Gym,Muscle Gain,Beginner,Arms,Dumbbells
-Preacher Curl,Gym,Muscle Gain,Intermediate,Arms,EZ Bar
-Cable Bicep Curl,Gym,Fat Loss,Beginner,Arms,Cable Machine
-Tricep Pushdown,Gym,Fat Loss,Beginner,Arms,Cable Machine
-Skull Crushers,Gym,Muscle Gain,Intermediate,Arms,EZ Bar
-Dips (Tricep Version),Gym,Muscle Gain,Beginner,Arms,Bench
-Close Grip Bench Press,Gym,Weight Gain,Advanced,Arms,Barbell
-Concentration Curl,Gym,Muscle Gain,Beginner,Arms,Dumbbells
-Overhead Tricep Extension,Gym,Muscle Gain,Intermediate,Arms,Dumbbells
-Plank,Gym,Fat Loss,Beginner,Core,Bodyweight
-Hanging Leg Raise,Gym,Fat Loss,Advanced,Core,Pull-Up Bar
-Cable Woodchop,Gym,Fat Loss,Intermediate,Core,Cable Machine
-Russian Twist,Gym,Weight Loss,Beginner,Core,Medicine Ball
-Ab Wheel Rollout,Gym,Muscle Gain,Advanced,Core,Ab Wheel
-Captain's Chair Raise,Gym,Fat Loss,Beginner,Core,Power Tower
-Bicycle Crunches,Gym,Weight Loss,Beginner,Core,Bodyweight
-Mountain Climbers,Gym,Fat Loss,Beginner,Core,Bodyweight
-Weighted Crunch,Gym,Muscle Gain,Beginner,Core,Ab Machine
-Burpees,Gym,Weight Loss,Advanced,Full Body,Bodyweight
-Kettlebell Swings,Gym,Fat Loss,Intermediate,Full Body,Kettlebell
-Thrusters,Gym,Fat Loss,Advanced,Full Body,Dumbbells
-Medicine Ball Slams,Gym,Fat Loss,Beginner,Full Body,Medicine Ball
-Clean and Press,Gym,Weight Gain,Advanced,Full Body,Barbell
-Turkish Get-Up,Gym,Fat Loss,Advanced,Full Body,Kettlebell
-Box Jumps,Gym,Weight Loss,Intermediate,Full Body,Plyo Box
-Battle Ropes,Gym,Fat Loss,Beginner,Full Body,Ropes
-Assault Bike Sprints,Gym,Weight Loss,Beginner,Full Body,Air Bike
-Rowing Machine,Gym,Fat Loss,Beginner,Full Body,Rower
-Farmer's Walk,Gym,Muscle Gain,Beginner,Full Body,Heavy Dumbbells
-Smith Machine Squat,Gym,Muscle Gain,Intermediate,Legs,Smith Machine
-Step-Ups,Gym,Fat Loss,Beginner,Legs,Bench
-Incline Cable Fly,Gym,Fat Loss,Intermediate,Chest,Cable Machine
-Single Arm Lat Pulldown,Gym,Muscle Gain,Intermediate,Back,Cable Machine
-Cable Lateral Raise,Gym,Fat Loss,Beginner,Shoulder,Cable Machine
-EZ Bar Skull Crushers,Gym,Muscle Gain,Intermediate,Arms,EZ Bar
-Spider Curls,Gym,Muscle Gain,Advanced,Arms,EZ Bar
-Kickbacks,Gym,Fat Loss,Beginner,Arms,Dumbbells
-Side Plank,Gym,Fat Loss,Beginner,Core,Bodyweight
-Dead Bug,Gym,Fat Loss,Beginner,Core,Bodyweight
-Landmine Press,Gym,Muscle Gain,Intermediate,Shoulder,Barbell
-Rope Face Pull,Gym,Muscle Gain,Beginner,Back,Cable Machine
-Sumo Deadlift,Gym,Weight Gain,Advanced,Legs,Barbell
-Glute Bridge,Gym,Muscle Gain,Beginner,Legs,Barbell
-Single Leg Press,Gym,Muscle Gain,Intermediate,Legs,Machine
-Bear Crawl,Gym,Fat Loss,Intermediate,Full Body,Bodyweight
-Wall Sit,Gym,Fat Loss,Beginner,Legs,Bodyweight
-Dumbbell Floor Press,Home With Equipment,Muscle Gain,Beginner,Chest,Dumbbells
-Resistance Band Chest Press,Home With Equipment,Fat Loss,Beginner,Chest,Resistance Bands
-Decline Push-Ups,Home With Equipment,Muscle Gain,Intermediate,Chest,Chair or Bench
-Incline Push-Ups,Home With Equipment,Fat Loss,Beginner,Chest,Chair or Bench
-Dumbbell Chest Fly,Home With Equipment,Muscle Gain,Beginner,Chest,Dumbbells
-Resistance Band Fly,Home With Equipment,Fat Loss,Intermediate,Chest,Resistance Bands
-Doorway Rows,Home With Equipment,Fat Loss,Beginner,Back,Door Frame
-Dumbbell Bent Over Row,Home With Equipment,Muscle Gain,Intermediate,Back,Dumbbells
-Resistance Band Lat Pulldown,Home With Equipment,Fat Loss,Beginner,Back,Resistance Bands
-Pull-Ups,Home With Equipment,Muscle Gain,Advanced,Back,Pull-Up Bar
-Single Arm Dumbbell Row,Home With Equipment,Muscle Gain,Beginner,Back,Dumbbells
-Renegade Row,Home With Equipment,Muscle Gain,Advanced,Back,Dumbbells
-Resistance Band Face Pulls,Home With Equipment,Fat Loss,Beginner,Back,Resistance Bands
-Chin-Ups,Home With Equipment,Muscle Gain,Intermediate,Back,Pull-Up Bar
-Bent Over Resistance Row,Home With Equipment,Muscle Gain,Beginner,Back,Resistance Bands
-Dumbbell Goblet Squat,Home With Equipment,Weight Gain,Beginner,Legs,Dumbbells
-Resistance Band Squat,Home With Equipment,Weight Loss,Beginner,Legs,Resistance Bands
-Bulgarian Split Squat,Home With Equipment,Muscle Gain,Advanced,Legs,Dumbbells & Chair
-Calf Raises,Home With Equipment,Fat Loss,Beginner,Legs,Step or Ledge
-Wall Sit,Home With Equipment,Fat Loss,Beginner,Legs,Wall
-Dumbbell Romanian Deadlift,Home With Equipment,Muscle Gain,Intermediate,Legs,Dumbbells
-Nordic Hamstring Curl,Home With Equipment,Muscle Gain,Advanced,Legs,Sturdy Furniture
-Kettlebell Swings,Home With Equipment,Fat Loss,Intermediate,Legs,Kettlebell
-Handstand Push-Ups,Home With Equipment,Muscle Gain,Advanced,Shoulder,Wall
-Dumbbell Overhead Press,Home With Equipment,Weight Gain,Intermediate,Shoulder,Dumbbells
-Dumbbell Lateral Raise,Home With Equipment,Fat Loss,Beginner,Shoulder,Dumbbells
-Resistance Band Front Raise,Home With Equipment,Fat Loss,Beginner,Shoulder,Resistance Bands
-Arnold Press,Home With Equipment,Muscle Gain,Intermediate,Shoulder,Dumbbells
-Reverse Fly,Home With Equipment,Fat Loss,Beginner,Shoulder,Dumbbells
-Resistance Band Upright Row,Home With Equipment,Muscle Gain,Beginner,Shoulder,Resistance Bands
-Dumbbell Shrugs,Home With Equipment,Weight Gain,Beginner,Shoulder,Dumbbells
-Wall Walk,Home With Equipment,Muscle Gain,Advanced,Shoulder,Wall
-Chair Dips,Home With Equipment,Muscle Gain,Beginner,Arms,Chair or Bench
-Dumbbell Bicep Curl,Home With Equipment,Muscle Gain,Beginner,Arms,Dumbbells
-Resistance Band Hammer Curl,Home With Equipment,Fat Loss,Beginner,Arms,Resistance Bands
-Dumbbell Skull Crushers,Home With Equipment,Muscle Gain,Intermediate,Arms,Dumbbells
-Bodyweight Tricep Extension,Home With Equipment,Muscle Gain,Intermediate,Arms,Wall or Table
+Cable Fly,Gym,Muscle Gain,Intermediate,Chest,Cable Machine
+Push Ups,Home Without Equipment,Muscle Gain,Beginner,Chest,Bodyweight
+Decline Push Ups,Home Without Equipment,Muscle Gain,Intermediate,Chest,Bodyweight
+Deadlift,Gym,Muscle Gain,Advanced,Back,Barbell
+Lat Pulldown,Gym,Muscle Gain,Beginner,Back,Cable Machine
+T-Bar Row,Gym,Muscle Gain,Advanced,Back,T-Bar Machine
+Resistance Band Row,Home With Equipment,Muscle Gain,Beginner,Back,Resistance Bands
+Chin Ups,Home Without Equipment,Muscle Gain,Advanced,Back,Pull-up Bar
+Squat,Gym,Muscle Gain,Intermediate,Legs,Barbell
+Leg Press,Gym,Muscle Gain,Intermediate,Legs,Leg Press Machine
+Leg Extension,Gym,Muscle Gain,Beginner,Legs,Leg Extension Machine
+Bulgarian Split Squat,Home With Equipment,Muscle Gain,Advanced,Legs,Dumbbells
+Walking Lunges,Home Without Equipment,Muscle Gain,Intermediate,Legs,Bodyweight
+Shoulder Press,Gym,Muscle Gain,Intermediate,Shoulder,Dumbbells
+Lateral Raise,Home With Equipment,Muscle Gain,Beginner,Shoulder,Dumbbells
+Face Pull,Gym,Muscle Gain,Intermediate,Shoulder,Cable Machine
+Pike Push Ups,Home Without Equipment,Muscle Gain,Intermediate,Shoulder,Bodyweight
+Barbell Curl,Gym,Muscle Gain,Intermediate,Arms,Barbell
+Hammer Curl,Home With Equipment,Muscle Gain,Beginner,Arms,Dumbbells
 Concentration Curl,Home With Equipment,Muscle Gain,Beginner,Arms,Dumbbells
-Tricep Kickbacks,Home With Equipment,Fat Loss,Beginner,Arms,Dumbbells
-Dumbbell Overhead Extension,Home With Equipment,Muscle Gain,Beginner,Arms,Dumbbells
-Zottman Curls,Home With Equipment,Muscle Gain,Intermediate,Arms,Dumbbells
-Resistance Band Bicep Curl,Home With Equipment,Muscle Gain,Beginner,Arms,Resistance Bands
-Russian Twist,Home With Equipment,Fat Loss,Beginner,Core,Medicine Ball or Weight
-Resistance Band Woodchop,Home With Equipment,Fat Loss,Intermediate,Core,Resistance Bands
-Ab Wheel Rollout,Home With Equipment,Muscle Gain,Advanced,Core,Ab Wheel
-Dumbbell Thrusters,Home With Equipment,Weight Gain,Advanced,Full Body,Dumbbells
-Dumbbell Man-Makers,Home With Equipment,Weight Gain,Advanced,Full Body,Dumbbells
-Step-Ups,Home With Equipment,Fat Loss,Beginner,Full Body,Sturdy Box or Chair
-Dumbbell Farmer's Walk,Home With Equipment,Muscle Gain,Beginner,Full Body,Dumbbells
-Push-Up to Renegade Row,Home With Equipment,Muscle Gain,Advanced,Full Body,Dumbbells
-Turkish Get-Up,Home With Equipment,Muscle Gain,Advanced,Full Body,Dumbbell or Kettlebell
-Resistance Band Pull-Aparts,Home With Equipment,Fat Loss,Beginner,Full Body,Resistance Bands
-Medicine Ball Slams,Home With Equipment,Fat Loss,Beginner,Full Body,Medicine Ball
-Standard Push-Ups,Home Without Equipment,Fat Loss,Beginner,Chest,None (Bodyweight)
-Diamond Push-Ups,Home Without Equipment,Muscle Gain,Intermediate,Chest,None (Bodyweight)
-Spiderman Push-Ups,Home Without Equipment,Muscle Gain,Advanced,Chest,None (Bodyweight)
-Superman Hold,Home Without Equipment,Fat Loss,Beginner,Back,None (Bodyweight)
-Reverse Snow Angels,Home Without Equipment,Fat Loss,Beginner,Back,None (Bodyweight)
-Bodyweight Squat,Home Without Equipment,Weight Loss,Beginner,Legs,None (Bodyweight)
-Pistol Squat,Home Without Equipment,Muscle Gain,Advanced,Legs,None (Bodyweight)
-Walking Lunges,Home Without Equipment,Fat Loss,Intermediate,Legs,None (Bodyweight)
-Glute Bridge,Home Without Equipment,Fat Loss,Beginner,Legs,None (Bodyweight)
-Jump Squats,Home Without Equipment,Weight Loss,Intermediate,Legs,None (Bodyweight)
-Side Lunges,Home Without Equipment,Fat Loss,Beginner,Legs,None (Bodyweight)
-Pike Push-Ups,Home Without Equipment,Muscle Gain,Intermediate,Shoulder,None (Bodyweight)
-Y-Raises,Home Without Equipment,Fat Loss,Intermediate,Shoulder,None (Bodyweight)
-Plank,Home Without Equipment,Fat Loss,Beginner,Core,None (Bodyweight)
-Bicycle Crunches,Home Without Equipment,Weight Loss,Beginner,Core,None (Bodyweight)
-V-Ups,Home Without Equipment,Fat Loss,Advanced,Core,None (Bodyweight)
-Mountain Climbers,Home Without Equipment,Fat Loss,Beginner,Core,None (Bodyweight)
-Dead Bug,Home Without Equipment,Fat Loss,Beginner,Core,None (Bodyweight)
-Hollow Body Hold,Home Without Equipment,Fat Loss,Intermediate,Core,None (Bodyweight)
-Leg Raises,Home Without Equipment,Fat Loss,Beginner,Core,None (Bodyweight)
-Flutter Kicks,Home Without Equipment,Weight Loss,Beginner,Core,None (Bodyweight)
-Side Plank,Home Without Equipment,Fat Loss,Beginner,Core,None (Bodyweight)
-Plank Shoulder Taps,Home Without Equipment,Fat Loss,Beginner,Core,None (Bodyweight)
-Bird-Dog,Home Without Equipment,Fat Loss,Beginner,Core,None (Bodyweight)
-Burpees,Home Without Equipment,Weight Loss,Advanced,Full Body,None (Bodyweight)
-Bear Crawl,Home Without Equipment,Fat Loss,Intermediate,Full Body,None (Bodyweight)
-Shadow Boxing,Home Without Equipment,Weight Loss,Beginner,Full Body,None (Bodyweight)
-High Knees,Home Without Equipment,Fat Loss,Beginner,Full Body,None (Bodyweight)
-Jumping Jacks,Home Without Equipment,Weight Loss,Beginner,Full Body,None (Bodyweight)
-Frog Jumps,Home Without Equipment,Weight Loss,Intermediate,Full Body,None (Bodyweight)
-Broad Jumps,Home Without Equipment,Weight Loss,Intermediate,Full Body,None (Bodyweight)
-Inchworms,Home Without Equipment,Fat Loss,Beginner,Full Body,None (Bodyweight)
+Tricep Pushdown,Gym,Muscle Gain,Intermediate,Arms,Cable Machine
+Diamond Push Ups,Home Without Equipment,Muscle Gain,Intermediate,Arms,Bodyweight
+Plank,Home Without Equipment,Muscle Gain,Beginner,Core,Bodyweight
+Cable Crunch,Gym,Muscle Gain,Intermediate,Core,Cable Machine
+Russian Twists,Home With Equipment,Muscle Gain,Beginner,Core,Medicine Ball
+Hanging Leg Raises,Gym,Muscle Gain,Advanced,Core,Pull-up Bar
+Farmer's Walk,Gym,Muscle Gain,Intermediate,Full Body,Dumbbells
+Thrusters,Gym,Muscle Gain,Advanced,Full Body,Barbell
+Clean and Press,Gym,Muscle Gain,Advanced,Full Body,Barbell
+Burpees,Home Without Equipment,Muscle Gain,Intermediate,Full Body,Bodyweight
+Kettlebell Swings,Home With Equipment,Muscle Gain,Intermediate,Full Body,Kettlebell
+Pull Ups,Home Without Equipment,Muscle Gain,Advanced,Back,Pull-up Bar
+Chest Dips,Gym,Muscle Gain,Advanced,Chest,Dip Bars
+Machine Chest Press,Gym,Muscle Gain,Beginner,Chest,Chest Press Machine
+Arnold Press,Gym,Muscle Gain,Intermediate,Shoulder,Dumbbells
+Weighted Sit Ups,Home With Equipment,Muscle Gain,Intermediate,Core,Weight Plate
+Burpees,Home Without Equipment,Fat Loss,Intermediate,Full Body,Bodyweight
+Mountain Climbers,Home Without Equipment,Fat Loss,Intermediate,Core,Bodyweight
+Jump Rope,Home With Equipment,Fat Loss,Beginner,Full Body,Jump Rope
+Sprint Intervals,Gym,Fat Loss,Advanced,Legs,Track
+Battle Ropes,Gym,Fat Loss,Advanced,Arms,Battle Ropes
+Kettlebell Swings,Gym,Fat Loss,Intermediate,Full Body,Kettlebell
+Box Jumps,Gym,Fat Loss,Advanced,Legs,Plyo Box
+Jump Squats,Home Without Equipment,Fat Loss,Intermediate,Legs,Bodyweight
+Rowing Machine,Gym,Fat Loss,Intermediate,Back,Rowing Machine
+Medicine Ball Slams,Gym,Fat Loss,Intermediate,Full Body,Medicine Ball
+High Knees,Home Without Equipment,Fat Loss,Beginner,Full Body,Bodyweight
+Dumbbell Thrusters,Home With Equipment,Fat Loss,Intermediate,Shoulder,Dumbbells
+Bear Crawls,Home Without Equipment,Fat Loss,Intermediate,Full Body,Bodyweight
+Cycling,Gym,Fat Loss,Beginner,Legs,Stationary Bike
+Running,Gym,Fat Loss,Beginner,Full Body,Treadmill
+Jump Lunges,Home Without Equipment,Fat Loss,Advanced,Legs,Bodyweight
+Shadow Boxing,Home Without Equipment,Fat Loss,Intermediate,Full Body,Bodyweight
+Air Bike,Gym,Fat Loss,Intermediate,Full Body,Air Bike
+Farmer's Carry,Gym,Fat Loss,Intermediate,Full Body,Kettlebell
+Russian Twists,Home With Equipment,Fat Loss,Beginner,Core,Medicine Ball
+Flutter Kicks,Home Without Equipment,Fat Loss,Beginner,Core,Bodyweight
+Tuck Jumps,Home Without Equipment,Fat Loss,Advanced,Legs,Bodyweight
+Wall Balls,Gym,Fat Loss,Intermediate,Full Body,Medicine Ball
+Battle Rope Slams,Gym,Fat Loss,Advanced,Arms,Battle Ropes
+Skaters,Home Without Equipment,Fat Loss,Beginner,Legs,Bodyweight
+TRX Rows,Gym,Fat Loss,Intermediate,Back,TRX Straps
+Plank Jacks,Home Without Equipment,Fat Loss,Intermediate,Core,Bodyweight
+Fast Feet,Home Without Equipment,Fat Loss,Intermediate,Full Body,Bodyweight
+Toe Touches,Home Without Equipment,Fat Loss,Beginner,Core,Bodyweight
+Lateral Lunges,Home Without Equipment,Fat Loss,Intermediate,Legs,Bodyweight
+Stair Climber,Gym,Fat Loss,Intermediate,Legs,Stair Machine
+Push Press,Gym,Fat Loss,Advanced,Shoulder,Barbell
+Jumping Jacks,Home Without Equipment,Fat Loss,Beginner,Full Body,Bodyweight
+Elliptical Training,Gym,Fat Loss,Beginner,Full Body,Elliptical Machine
+Step Ups,Home With Equipment,Fat Loss,Beginner,Legs,Bench
+Sit Ups,Home Without Equipment,Fat Loss,Beginner,Core,Bodyweight
+Bicycle Crunches,Home Without Equipment,Fat Loss,Beginner,Core,Bodyweight
+Skipping,Home With Equipment,Fat Loss,Intermediate,Full Body,Jump Rope
